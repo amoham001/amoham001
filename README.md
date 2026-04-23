@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1> Hello, I'm Adam! <br/> <a href=https://github.com/amoham001/>Cybersecurity Student</a></h1>
 
-<!--
-**amoham001/amoham001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👾 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Project #1</b>
+- <b>Project #2</b>
+- <b>Project #3</b> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🧑‍💻 General IT Projects: </h2>
+
+- <b>Project #1</b>
+- <b>Project #2</b>
+- <b>Project #3</b>
+
