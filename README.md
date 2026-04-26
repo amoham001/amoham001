@@ -2,13 +2,13 @@
 
 <h2>👾 Cybersecurity Projects:</h2>
 
-- <b>Project #1</b>
-- <b>Project #2</b>
-- <b>Project #3</b> 
+- Project #1
+- Project #2
+- Project #3
 
 <h2>🧑‍💻 General IT Projects: </h2>
 
-- <b>IT Helpdesk Lab</b>
-- <b>Project #2</b>
-- <b>Project #3</b>
+- [IT Helpdesk Lab](https://github.com/amoham001/HelpDeskLab)
+- Project #2
+- Project #3
 
