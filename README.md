@@ -17,7 +17,7 @@
 
 <h3>🧑‍💻 General IT Projects: </h3>
 
-- [IT Helpdesk Lab](https://github.com/amoham001/HelpDeskLab)
+- [IT Helpdesk Home Lab](https://github.com/amoham001/HelpDeskLab)
 - Project #2
 - Project #3
 
