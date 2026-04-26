@@ -8,7 +8,7 @@
 
 <h2>🧑‍💻 General IT Projects: </h2>
 
-- <b>Project #1</b>
+- <b>IT Helpdesk Lab</b>
 - <b>Project #2</b>
 - <b>Project #3</b>
 
