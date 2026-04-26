@@ -5,8 +5,9 @@
 - [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/VD2ZHEGYWEQ1QSJ2)
 - [CompTIA Network+](https://cp.certmetrics.com/comptia/en/public/verify/credential/98CFKKH582QQK8JJ)
 
-<h3>🏆CTF Write-Ups</h3>
+<h3>🏆 CTF Write-Ups</h3>
 
+- [Write-Up #1]
 
 <h3>👾 Cybersecurity Projects:</h3>
 
