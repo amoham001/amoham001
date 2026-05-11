@@ -5,19 +5,16 @@
 - [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/VD2ZHEGYWEQ1QSJ2)
 - [CompTIA Network+](https://cp.certmetrics.com/comptia/en/public/verify/credential/98CFKKH582QQK8JJ)
 
-<h3>🏆 CTF Write-Ups</h3>
+<h3>📝 Write-Ups</h3>
 
-- [Write-Up #1]
+- 🚪 [Rooms](https://github.com/amoham001/Write-Ups/tree/main/TryHackMe/Rooms)
+- 🏆 [CTFs](https://github.com/amoham001/Write-Ups/tree/main/TryHackMe/CTFs)
 
 <h3>👾 Cybersecurity Projects:</h3>
 
-- Project #1
-- Project #2
-- Project #3
+- 
 
-<h3>🧑‍💻 General IT Projects: </h3>
+<h3>🧑‍💻 General Projects: </h3>
 
 - [IT Helpdesk Home Lab](https://github.com/amoham001/HelpDeskLab)
-- Project #2
-- Project #3
 
