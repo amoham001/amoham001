@@ -12,7 +12,7 @@
 
 <h3>👾 Cybersecurity Projects:</h3>
 
-- 
+- 🔐 [Password Analyzer](https://github.com/amoham001/cybersecurity-projects/tree/main/password-analyzer)
 
 <h3>🧑‍💻 General Projects: </h3>
 
